@@ -1,0 +1,5 @@
+{
+  "python.defaultInterpreterPath": ".venv\\bin\\python",
+  "python.analysis.typeCheckingMode": "basic",
+  "editor.formatOnSave": false // 保存時フォーマットは必須ではありません むしろ提出直前に余計な整形で崩れないよう、最初は false でもよい
+}
